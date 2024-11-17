@@ -1,6 +1,6 @@
 This plugin generates an activation code for the warhead
 
-*How it works?*
+**How it works?**
 
 1. The round begins, the roles you set in the config will be able to use the .code command and receive the password to activate the warhead (others will not be able to)
 2. To activate the warhead detonation, you need to go to the warhead activation terminal, unlock the button and enter the command .start 123456
